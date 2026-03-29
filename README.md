@@ -40,3 +40,11 @@ form a valid triangle. If valid, classifies it as equilateral,
 isosceles or scalene.
 
 **Tool:** Portugol Studio
+
+###  Interest Calculator
+Program developed in Portugol that calculates simple and compound
+interest. The user enters the capital, interest rate and time period
+(in months or years), and the program returns the final amount and
+the total interest earned.
+
+**Tool:** Portugol Studio
