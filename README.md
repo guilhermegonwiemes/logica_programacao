@@ -18,3 +18,12 @@ que desejar, e o programa calcula a média e retorna automaticamente a
 situação do aluno: aprovado, em recuperação ou reprovado.
 
 **Ferramenta:** Portugol Webstudio
+
+### Calculadora de IMC
+
+Programa desenvolvido em Portugol por iniciativa própria que calcula
+o Índice de Massa Corporal (IMC) do usuário a partir do peso e altura
+informados, retornando o valor calculado e a classificação:
+abaixo do peso, peso normal, sobrepeso ou obesidade.
+
+**Ferramenta:** Portugol Studio
