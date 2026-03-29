@@ -8,4 +8,4 @@ Repositório com projetos pessoais e exercícios desenvolvidos durante meu apren
 Programa em Portugol que calcula volume, área e perímetro de formas
 espaciais: Cubo, Paralelepípedo, Cilindro e Esfera.
 Desenvolvido por iniciativa própria para praticar lógica de programação.
-**Ferramenta:** Portugol Studio
+**Ferramenta:** Portugol Webtudio
